@@ -23,12 +23,19 @@ Security Research
 Penetration testing basics
 Vulnerability assessment
 Understanding attack surfaces
-✨ Features
+
 ✅ Pure Python (no external dependencies)
+
 ✅ Interactive command-line interface
+
 ✅ Custom message support
+
 ✅ HTTP GET request generator
+
 ✅ Timeout handling (prevents hanging)
+
 ✅ Error handling for network issues
+
 ✅ Color-coded banner (mahogany brown!)
+
 ✅ Works with any TCP service
